@@ -36,8 +36,8 @@ Preenchida pelo **Aluno A ao final do laboratório**, com commit e push; o Aluno
 
 | Papel | Nome | Usuário do GitHub |
 |---|---|---|
-| Aluno A — dono do repositório | | |
-| Aluno B — colaborador | | |
+| Aluno A — dono do repositório | Marina Sberg | marinasberg |
+| Aluno B — colaborador | Tuany Farias | TuanyFarias |
 
 ---
 
